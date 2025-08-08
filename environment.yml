@@ -1,0 +1,10 @@
+name: bbc_headlines_env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - flask
+  - requests
+  - beautifulsoup4
+  - unittest-mock
+  - pytest
